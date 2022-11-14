@@ -1,0 +1,51 @@
+.header-sidebar img{
+  width: 80px;
+}
+
+.header-sidebar .social a{
+  font-weight: 600;
+  font-size: 18px;
+  letter-spacing: 2px;
+  text-transform: capitalize;
+}
+
+.header-sidebar .social a:nth-child(2) {
+  color: var(--main-color);
+}
+
+.header-sidebar .social a:nth-child(3){
+  color: var(--white);
+  font-size: 16px;
+}
+
+.header-content .navbar .navbar_booking {
+  color: var(--white);
+  font-size: 16px;
+}
+
+.header-content .navbar .navbar_menu li a{
+  color: var(--text-color-2);
+  font-size: 14px;
+  opacity: 0.6;
+  text-transform: uppercase;
+}
+
+.header-content .banner-text .label {
+  text-transform: capitalize;
+  font-size: 14px;
+  opacity: 0.6;
+  text-transform: uppercase;
+}
+
+.header-content .banner-text h1{
+  text-transform: capitalize;
+  font-size: 75px;
+  font-weight: 600;
+  font-family: "Raleway", sans-serif;
+}
+
+.header-content .banner-text .info {
+  color: var(--text-color-2);
+  font-size: 16px;
+  text-transform: uppercase;
+}
